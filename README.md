@@ -1,10 +1,72 @@
 ## Hi there 👋
+
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">A passionate developer learning new things!</h3>
+
 <p align="center">
-  <img src="https://camo.githubusercontent.com/daa279ca78be42b310b9d7d7ea35f996418037e6fc81a54fc91ce6732e7f2e9e/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e7426746578743d48656c6c6f21266865696768743d3130302673656374696f6e3d686561646572"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Always+learning+new+techs!">
 </p>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+
+---
+
+## 🚀 About Me
+- 🔭 I’m currently working on **Open Source Projects**
+- 🌱 I’m learning **[Your Current Learning Technology]**
+- 💬 Ask me about **Web Development, Python, Git, Open Source**
+- 📫 Reach me at **your.email@example.com**
+- 😄 Pronouns: **He/Him | She/Her**
+- ⚡ Fun fact: **I love coffee ☕ and debugging!**
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a">
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="450px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="450px">
+</p>
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+  <a href="https://your-website.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=website" alt="Portfolio">
+  </a>
+</p>
+
+---
+
+## 🎵 Now Playing
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default">
+</p>
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Sarth-k/Sarth-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -58,19 +58,6 @@
 </table>
 ---
 
-## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarth-k&theme=onestar&no-frame=false&column=7">
-</p>
-
----
-
-## 🎨 3D Contribution Graph  
-<p align="center">
-  <img src="https://github.com/sarth-k/sarth-k/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800px">
-</p>
-
----
 
 ## 🔗 Connect With Me
 <p align="center">

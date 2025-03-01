@@ -1,28 +1,47 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak Kadam</h1>
-<h3 align="center">A passionate AI Developer learning new things!</h3>
+<h3 align="center">A passionate C++ Developer | AI & Data Science Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Always+learning+new+techs!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;C%2B%2B+Developer+%F0%9F%92%BB;AI+%26+Data+Science+Enthusiast;Machine+Learning+Practitioner;Always+learning+new+technologies!">
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working in **Tata Motors Limited🚗**
-- 🌱 I’m learning **GenAI**
-- 💬 Ask me about **AI, Python, Data Science, C++**
+- 🔭 I’m currently working on **AI & Data Science Projects**  
+- 🌱 I’m learning **Deep Learning, NLP, and Advanced C++**  
+- 💬 Ask me about **C++, AI, ML, Data Science, and System Design**  
 - 📫 Reach me at **kadamsarthak31@gmail.com**
-- ⚡ Fun fact: **I love coffee ☕ and debugging!**
+- ⚡ Fun fact: **I love coding AI models & optimizing algorithms!**
 
 ---
 
 ## 🛠️ Tech Stack
+### 🚀 Programming Languages  
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-Python-yellow?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-R-orange?style=flat&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white">
+</p>
+
+### 📊 AI & Data Science  
+<p align="center">
+  <img src="https://img.shields.io/badge/ML-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/ML-PyTorch-red?style=flat&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/Data-Pandas-blue?style=flat&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Data-Numpy-lightgrey?style=flat&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib-green?style=flat&logo=matplotlib&logoColor=white">
+</p>
+
+### ⚙️ Tools & Platforms  
+<p align="center">
+  <img src="https://img.shields.io/badge/Tools-Visual%20Studio%20Code-blue?style=flat&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Tools-Jupyter-orange?style=flat&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Version_Control-Git-red?style=flat&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud-Google%20Colab-yellow?style=flat&logo=googlecolab&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud-AWS-green?style=flat&logo=amazonaws&logoColor=white">
 </p>
 
 ---
@@ -46,12 +65,6 @@
 </p>
 
 ---
-
-## 🎵 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default">
-</p>
-
 
 
 

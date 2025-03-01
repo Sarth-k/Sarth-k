@@ -59,6 +59,20 @@
 </table>
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar&no-frame=false&column=7">
+</p>
+
+---
+
+## 🎨 3D Contribution Graph  
+<p align="center">
+  <img src="https://github.com/your-username/your-username/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800px">
+</p>
+
+---
+
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/sarthak-kadam-sde-ai-ml-datascience-engineer" target="_blank">

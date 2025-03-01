@@ -38,13 +38,10 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
-  </a>
-  <a href="https://your-website.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=website" alt="Portfolio">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram">
   </a>
 </p>
 

@@ -1,6 +1,5 @@
-## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Sarthak Kadam</h1>
 <h3 align="center">A passionate developer learning new things!</h3>
 
 <p align="center">
@@ -10,11 +9,10 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Open Source Projects**
-- 🌱 I’m learning **[Your Current Learning Technology]**
-- 💬 Ask me about **Web Development, Python, Git, Open Source**
-- 📫 Reach me at **your.email@example.com**
-- 😄 Pronouns: **He/Him | She/Her**
+- 🔭 I’m currently working in **Tata Motors Limited🚗**
+- 🌱 I’m learning **GenAI**
+- 💬 Ask me about **AI, Python, Data Science, C++**
+- 📫 Reach me at **kadamsarthak31@gmail.com**
 - ⚡ Fun fact: **I love coffee ☕ and debugging!**
 
 ---

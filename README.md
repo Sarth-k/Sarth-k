@@ -22,7 +22,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-C%2B%2B-blue?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Code-Python-yellow?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Code-R-orange?style=flat&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white">
 </p>
 
@@ -61,14 +60,14 @@
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar&no-frame=false&column=7">
+  <img src="https://github-profile-trophy.vercel.app/?username=sarth-k&theme=onestar&no-frame=false&column=7">
 </p>
 
 ---
 
 ## 🎨 3D Contribution Graph  
 <p align="center">
-  <img src="https://github.com/your-username/your-username/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800px">
+  <img src="https://github.com/sarth-k/sarth-k/blob/main/profile-3d-contrib/profile-night-rainbow.svg" width="800px">
 </p>
 
 ---

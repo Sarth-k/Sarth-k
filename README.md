@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak Kadam</h1>
-<h3 align="center">A passionate developer learning new things!</h3>
+<h3 align="center">A passionate AI Developer learning new things!</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Always+learning+new+techs!">
@@ -20,7 +20,7 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a">
   <img src="https://img.shields.io/badge/Version_Control-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a">
 </p>
